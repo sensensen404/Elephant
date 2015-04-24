@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Reading -->
+    <!--<PreferenceCategory android:title="阅读">-->
+
+        <!--<Preference-->
+            <!--android:key="key_read_set"-->
+            <!--android:title="排版设置"-->
+            <!--android:enabled="true"-->
+            <!--android:summary="选择你喜欢的排版"-->
+            <!--/>-->
+        <!--<CheckBoxPreference-->
+            <!--android:checked="false"-->
+            <!--android:key="@string/key_traditional_chinese"-->
+            <!--android:title="正体中文" />-->
+
+        <!--<ListPreference-->
+            <!--android:defaultValue="@string/default_font_size"-->
+            <!--android:dialogTitle="@string/font_size"-->
+            <!--android:entries="@array/font_size_entries"-->
+            <!--android:entryValues="@array/font_size_entries_values"-->
+            <!--android:key="key_font_size"-->
+            <!--android:summary="选择适合你的文字大小"-->
+            <!--android:title="文字大小" />-->
+
+        <!--<ListPreference-->
+            <!--android:defaultValue="@string/default_font_size"-->
+            <!--android:dialogTitle="@string/font_size"-->
+            <!--android:entries="@array/font_size_entries"-->
+            <!--android:entryValues="@array/font_size_entries_values"-->
+            <!--android:key="key_font"-->
+            <!--android:summary="选择你喜欢的字体"-->
+            <!--android:title="字&#160;&#160;&#160;&#160;体" />-->
+    <!--</PreferenceCategory>-->
+
+    <PreferenceCategory android:title="功能">
+        <CheckBoxPreference
+            android:title="屏幕常亮"
+            android:summary="阅读正文时保持屏幕常亮"
+            android:defaultValue="true"
+            android:key="key_screen_on"/>
+
+        <CheckBoxPreference
+            android:title="音量键翻页"
+            android:summary="使用音量键上下翻页"
+            android:defaultValue="true"
+            android:key="key_scroll_read"/>
+
+        <CheckBoxPreference
+            android:title="段落缩进"
+            android:summary="每个段落缩进一个字符"
+            android:defaultValue="false"
+            android:key="key_indent"/>
+
+        <CheckBoxPreference
+            android:title="中文引号"
+            android:summary="使用「」和『』作为中文引号"
+            android:defaultValue="true"
+            android:key="tradition_symbol"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="其他">
+
+        <CheckBoxPreference
+            android:title="智能无图"
+            android:summary="流量环境下不显示图片"
+            android:defaultValue="true"
+            android:key="auto_nopic"/>
+
+        <CheckBoxPreference
+            android:title="右手习惯"
+            android:summary="将抽屉调整到界面右边，方便右手操作"
+            android:defaultValue="false"
+            android:key="right_hand"/>
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

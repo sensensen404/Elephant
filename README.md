@@ -16,6 +16,6 @@ TODO
 
 <img src="https://github.com/Azzssss/Elephant/blob/master/images/906306654.jpg" width = "360" height = "640" alt="首页" align=center />
 
-<img src="https://github.com/Azzssss/Elephant/blob/master/images/1303670559.jpg" width = "360" height = "640" alt="首页" align=center />
+<img src="https://github.com/Azzssss/Elephant/blob/master/images/1303670559.jpg" width = "360" height = "640" alt="详情1" align=center />
 
-<img src="https://github.com/Azzssss/Elephant/blob/master/images/1405392895.jpg" width = "360" height = "640" alt="首页" align=center />
+<img src="https://github.com/Azzssss/Elephant/blob/master/images/1405392895.jpg" width = "360" height = "640" alt="详情2" align=center />

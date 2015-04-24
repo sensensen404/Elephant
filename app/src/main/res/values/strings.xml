@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Elephant</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_reading">ReadingActivity</string>
+    <string name="title_activity_oauth">OauthActivity</string>
+    <string name="you_cancel_login">你取消了授权</string>
+    <string name="unknown_error_error_code">未知错误，错误代码</string>
+    <string name="login_success">授权成功</string>
+    <string name="update_account_success">已有该帐号，授权信息更新成功</string>
+    <string name="oauthing">授权中</string>
+    <string name="sina_server_error">新浪微博第三方认证服务器出错</string>
+    <string name="ok">确定</string>
+    <string name="login_failed">授权失败：</string>
+    <string name="official_app_login">官方客户端授权</string>
+    <string name="title_activity_setting">SettingActivity</string>
+
+    <!-- Settings -->
+    <string name="settings">设置</string>
+    <string name="about">关于</string>
+    <string name="version">版本</string>
+    <string name="developers_title">开发者与感谢名单</string>
+    <string name="source_code_title">源代码</string>
+    <string name="source_code_summary">https://github.com/PaperAirplane-Dev-Team/BlackLight</string>
+    <string name="license">开源协议</string>
+    <string name="actions">动作</string>
+    <string name="fast_scroll">列表快速滚动</string>
+    <string name="shake_to_return">晃动返回</string>
+    <string name="right_handed">右手习惯</string>
+    <string name="right_handed_des">将主界面的抽屉调整到界面右边，适用于大屏手机</string>
+    <string name="account">账户</string>
+    <string name="account_logout">登出当前账户</string>
+    <string name="feedback">反馈</string>
+    <string name="feedback_send">发送反馈&amp;建议</string>
+    <string name="debug">调试</string>
+    <string name="debug_autosubmit">自动提交错误日志</string>
+    <string name="debug_autosubmit_sum">选定该项意味着你同意我们在没有通知的情況下自动收集并提交您的设备信息、微博ID和错误日志</string>
+    <string name="debug_log">崩溃日志</string>
+    <string name="debug_submit_log">提交崩溃日志</string>
+    <string name="debug_crash">立即崩溃</string>
+    <string name="debug_crash_sum">亲，戳了就不要再向我们报告错误了哟！</string>
+    <string name="notification">通知</string>
+    <string name="notification_sound">声音</string>
+    <string name="notification_vibrate">震动</string>
+    <string name="notification_interval">提醒间隔</string>
+    <string name="set_interval">设置提醒间隔</string>
+    <string name="good">给个好评</string>
+    <string name="good_sum">亲，去Play商店给个好评呗</string>
+    <string name="play_url">https://play.google.com/store/apps/details?id=us.shandian.blacklight</string>
+    <string name="network">网络</string>
+    <string name="auto_nopic">智能无图</string>
+    <string name="auto_nopic_sum">流量环境下不显示图片，WIFI环境下显示图片</string>
+
+    <string-array name="interval_name">
+        <item>1 分钟</item>
+        <item>3 分钟</item>
+        <item>5 分钟</item>
+        <item>10 分钟</item>
+        <item>30 分钟</item>
+        <item>从不</item>
+    </string-array>
+
+    <string name="language">语言</string>
+
+    <string-array name="langs" translatable="false">
+        <item>English</item>
+        <item>简体中文</item>
+        <item>繁體中文</item>
+    </string-array>
+
+    <string name="needs_restart">设置将在重启软件后生效</string>
+    <string name="feedback_sum">Tell us anything about this app</string>
+    <string name="tiny">极小</string>
+    <string name="small">较小</string>
+    <string name="medium">正常</string>
+    <string name="large">较大</string>
+    <string name="huge">极大</string>
+    <string name="font_size">文字大小</string>
+    <string name="font_family">字体</string>
+    <string name="key_traditional_chinese">key_traditional_chinese</string>
+    <string name="title_activity_type">TypeActivity</string>
+
+</resources>

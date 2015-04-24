@@ -12,8 +12,9 @@ TODO
 3.加入登录功能
 
 以下是一些应用截图
-![](https://github.com/Azzssss/Elephant/blob/master/images/906306654.jpg)
 
-![](https://github.com/Azzssss/Elephant/blob/master/images/1303670559.jpg)
+<img src="https://github.com/Azzssss/Elephant/blob/master/images/906306654.jpg" width = "360" height = "640" alt="首页" align=center />
 
-![](https://github.com/Azzssss/Elephant/blob/master/images/1405392895.jpg)
+<img src="https://github.com/Azzssss/Elephant/blob/master/images/1303670559.jpg" width = "360" height = "640" alt="首页" align=center />
+
+<img src="https://github.com/Azzssss/Elephant/blob/master/images/1405392895.jpg" width = "360" height = "640" alt="首页" align=center />

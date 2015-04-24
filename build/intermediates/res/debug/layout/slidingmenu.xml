@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="234dp"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:id="@+id/nav"
+    android:clickable="true"
+    >
+
+    <ImageView
+        android:id="@+id/iv_avatar"
+        android:layout_width="84dp"
+        android:layout_height="84dp"
+        android:layout_marginLeft="74dp"
+        android:layout_marginTop="38dp"
+        android:src="@drawable/default_avatar" />
+
+    <LinearLayout
+        android:id="@+id/ll_bookmark"
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:layout_below="@id/iv_avatar"
+        android:layout_marginTop="34dp"
+        android:gravity="center_vertical"
+        android:background="@drawable/drawer_selector"
+        android:clickable="true"
+        >
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="30dp"
+            android:duplicateParentState="true"
+            android:src="@drawable/default_icon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="22dp"
+            android:text="Home"
+            android:duplicateParentState="true"
+            android:textColor="@color/primary_text"
+            android:textSize="16dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_favarite"
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:layout_below="@id/ll_bookmark"
+        android:layout_marginTop="34dp"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:background="@drawable/drawer_selector"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="30dp"
+            android:clickable="false"
+            android:src="@drawable/default_icon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="22dp"
+            android:text="Favarite"
+            android:textColor="@color/primary_text"
+            android:textSize="16dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_setting"
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:layout_below="@id/ll_favarite"
+        android:layout_marginTop="34dp"
+        android:gravity="center_vertical"
+        android:background="@drawable/drawer_selector"
+        android:clickable="true"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="30dp"
+            android:clickable="false"
+            android:src="@drawable/default_icon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="22dp"
+            android:text="Setting"
+            android:textColor="@color/primary_text"
+            android:textSize="16dp" />
+    </LinearLayout>
+</RelativeLayout>
+<!-- From: file:/Users/Azzssss/Documents/as_workspace/Elephant/app/src/main/res/layout/slidingmenu.xml -->

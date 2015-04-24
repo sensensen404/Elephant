@@ -1,0 +1,17 @@
+/Users/Azzssss/Documents/as_workspace/Elephant/app/build/intermediates/classes/debug
+/Users/Azzssss/Documents/as_workspace/Elephant/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-1799da7598e0c4fab9c27a4a37248d4dacba993b.jar
+/Users/Azzssss/Documents/as_workspace/Elephant/app/build/intermediates/pre-dexed/debug/classes-54c5fe52eb9bdc60a430c115e1c1f9d5d26c39e8.jar
+/Users/Azzssss/Documents/as_workspace/Elephant/app/build/intermediates/pre-dexed/debug/classes-36e17c9643d15a0e52e5434e5d95b0926278036f.jar
+/Users/Azzssss/Documents/as_workspace/Elephant/app/build/intermediates/pre-dexed/debug/httpmime-4.2.4-6d7902e64f3121836ec8f7f2946caa57e2a90b94.jar
+/Users/Azzssss/Documents/as_workspace/Elephant/app/build/intermediates/pre-dexed/debug/eventbus-2.4.0-bbd9ae718c5b647a70d2067cc53fcbd10d396344.jar
+/Users/Azzssss/Documents/as_workspace/Elephant/app/build/intermediates/pre-dexed/debug/jcc-bate-0.7.3-33e1f7e17ea54ade66f76c45948a72614f67496b.jar
+/Users/Azzssss/Documents/as_workspace/Elephant/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-0bd967d13174afde442085f3ef7394f5d48d1327.jar
+/Users/Azzssss/Documents/as_workspace/Elephant/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-7de542a3d25e805a4a6ff276944ae3448ed122fe.jar
+/Users/Azzssss/Documents/as_workspace/Elephant/app/build/intermediates/pre-dexed/debug/gson-2.3.1-ecaf6f28f22f423835071e3cf5c5485c62c5b8f0.jar
+/Users/Azzssss/Documents/as_workspace/Elephant/app/build/intermediates/pre-dexed/debug/classes-5b21ea43bdb5cf4044200d15fff75ecc0c4989e1.jar
+/Users/Azzssss/Documents/as_workspace/Elephant/app/build/intermediates/pre-dexed/debug/fastjson-1bf66a15e28e3061fe4b9a21882f3e40681b84fa.jar
+/Users/Azzssss/Documents/as_workspace/Elephant/app/build/intermediates/pre-dexed/debug/jsoup-1.8.1-eb2725fd78c81f93792377d66cbb67c3cbb48cfb.jar
+/Users/Azzssss/Documents/as_workspace/Elephant/app/build/intermediates/pre-dexed/debug/avoscloud-v2.6.9.4-d513878cf54e3c81789e644cdddcd782af4a8c07.jar
+/Users/Azzssss/Documents/as_workspace/Elephant/app/build/intermediates/pre-dexed/debug/litepal-1.1.1-src-fd9121b5e550e1424e434f8500b3caf5367b3476.jar
+/Users/Azzssss/Documents/as_workspace/Elephant/app/build/intermediates/pre-dexed/debug/classes-f41ee5f690a817ac9f6f94d9afc1ea94e84c1f3a.jar
+/Users/Azzssss/Documents/as_workspace/Elephant/app/build/intermediates/pre-dexed/debug/classes-3d409722b69dcff345a4d8fb0216441750de87d0.jar

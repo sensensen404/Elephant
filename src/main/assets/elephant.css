@@ -1,0 +1,86 @@
+
+@font-face {
+    font-family: "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
+}
+
+@font-face {
+    font-family: "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
+    font-weight: bold;
+}
+
+* {
+    word-wrap: break-word;
+    word-break: break-all;
+}
+
+body {
+     font-family: "Hiragino Sans GB", "Microsoft YaHei","WenQuanYi Micro Hei", sans-serif;
+}
+
+
+.content img {
+    width : 95%;
+    height:auto;
+    border: 1px solid #ECECEC;
+    padding: .5em;
+    background: #FFFFFF;
+    display: block;
+    margin: .5em auto;
+    border-radius: 3px;
+    box-shadow: .5px .5px 1.0px #E6E6E6;
+}
+
+.content img[src=""] {
+    display : none;
+}
+
+img + span {
+    display:block;
+    text-align:center;
+    color: #FF5722;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: #FF5722;
+    padding:0px 0px 0px 20px;
+}
+
+h5 {
+    text-align:center;
+}
+
+p {
+    background: #FFFFFF;
+    text-shadow: 0 1px 0 #fff5ee;
+    font-size: 1em;
+    color: #333;
+    line-height: 28px;
+    text-align: justify;
+    padding:15px 15px 0px 15px;
+}
+
+.indent p {
+    text-indent: 1em;
+}
+
+.tiny {
+    font-size: 12px;
+}
+
+.small {
+    font-size: 14px;
+}
+
+.normal {
+    font-size: 16px;
+}
+
+.big {
+    font-size: 18px;
+}
+
+.huge {
+    font-size: 20px;
+}
+
